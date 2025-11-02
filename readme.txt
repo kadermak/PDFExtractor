@@ -8,6 +8,8 @@ Date: 01112025
 # 2. Ensure PDF is accessible via ' pdf_url or local_pdf_path ' path. If URL is not reachable will use local copy
 # 3. Run the script in a notebook or console. For task3, enter user query in input box
 
+GIT path: https://github.com/kadermak/PDFExtractor/blob/main/PDFExtractor.py 
+
 #### Overview ####
 
 This project automates the extraction and analysis of financial and date-related information from the Singapore Budget 2024 PDF.
@@ -255,5 +257,6 @@ Catch RuntimeError and similar exceptions during PDF open or text extraction.
 Validate extracted text length and patterns; if empty or suspicious, trigger alternative methods.
 
 ################
+
 
  
